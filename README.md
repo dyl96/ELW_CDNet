@@ -1,1 +1,1 @@
-# ELW_CDNet
+# ELW_CDNet:一个极其轻量的遥感图像变化检测算法
