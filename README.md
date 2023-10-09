@@ -11,7 +11,7 @@ This repository is built under the help of the projects [A2Net](https://github.c
 ### 3. Results
 We use LEVIR-CD and SYSU dataset for experiments. The results are as follows table.
 <p align="center">
-    <img src="assest/result.jpg"/> <br />
+    <img src="assest/result.png"/> <br />
 </p>
 
 ### 4. Citation
