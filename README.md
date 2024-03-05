@@ -1,4 +1,4 @@
-## <p align=center> An Extremely Lightweight Change Detection Algorithm Based on Light Global-Local Feature Enhancement Module (IEEE GRSL 2023) </p>
+# <p align=center> An Extremely Lightweight Change Detection Algorithm Based on Light Global-Local Feature Enhancement Module (IEEE GRSL 2023) </p>
 
 This repository contains simple python implementation of our paper [ELW_CDNet](https://ieeexplore.ieee.org/document/10252072).
 
