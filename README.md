@@ -21,7 +21,7 @@ Please cite our paper if you find the work useful:
     @ARTICLE{10252072,
       author={Liu, Dongyang and Xie, Baorong and Zhang, Junping and Ding, Rongli},
       journal={IEEE Geoscience and Remote Sensing Letters}, 
-      title={An Extremely Lightweight Change Detection Algorithm Based    on Light Global-Local Feature Enhancement Module}, 
+      title={An Extremely Lightweight Change Detection Algorithm Based on Light Global-Local Feature Enhancement Module}, 
       year={2023},
       volume={20},
       number={},
